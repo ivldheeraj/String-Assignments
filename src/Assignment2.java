@@ -1,4 +1,9 @@
-public class Assignment2 {
+
+/**
+Assignment 2 
+author : dheeraj 
+Date: 5/1/2021
+*/public class Assignment2 {
 
 	public static void main(String[] args) {
 		String url1 = "www.codegram.in/admin/reports/daywiseuser.php";

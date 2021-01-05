@@ -1,4 +1,8 @@
-import java.util.Scanner;
+/**
+Assignment 1 --reverse words in string
+author : dheeraj 
+Date: 5/1/2021
+*/
 public class Assignment1 {
 
 	public static void main(String[] args) {
